@@ -10,7 +10,7 @@ The quotebank dataset from 2020 contains approximately 52 million quotes, of the
 
 
 #### Research Question
-1. Can the interpersonal relationships between celebrities be realistically mapped in a visible manner with millions nodes and edges?
+1. Can the interpersonal relationships between celebrities be realistically mapped in a visible manner with thousands nodes and edges?
 2. Can changes in the relationships over time be visualized?
 3. Can the clusters of relationally close people, such as political parties, be detected?
 
