@@ -41,7 +41,7 @@ In both cases only entities that were mentioned more than once were kept to elim
 
 #### Next steps
 As mentioned earlier, we only used the dataset from 2020 to outline the entire project.
-The rest of the Qoutebank is going to be processed and used to visualize the relationships in interactive ways.
+The rest of the Quotebank is going to be processed and used to visualize the relationships in interactive ways.
 Furthermore, we will utilize another NLP packages for quantification of the sentiments in order to extract more reliable information
 and another funtions to make the difference between the positive and the negative relationships more distinguishable.
 
