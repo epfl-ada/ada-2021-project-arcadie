@@ -2,7 +2,7 @@
 ada-2021-project-arcadie created by GitHub Classroom
 
 
-### How can we dynamically visualize the relationships between people by analyzing their qoutes?
+### How can we dynamically visualize the relationships between people by analyzing their quotes?
 
 #### Abstract
 
