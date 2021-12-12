@@ -1,9 +1,6 @@
 # ada-2021-project-arcadie
 ada-2021-project-arcadie created by GitHub Classroom
 
-
-![Artboard](https://user-images.githubusercontent.com/73229139/145695494-204ed390-2a9e-4103-8435-8af77eadbfcb.png)
-
 ![Artboard](https://user-images.githubusercontent.com/73229139/145709063-82bb23b7-fe85-432e-8bb9-4a03f1696095.png)
 
 ### How can we dynamically visualize the relationships between people by analyzing their quotes?
