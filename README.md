@@ -4,6 +4,7 @@ ada-2021-project-arcadie created by GitHub Classroom
 
 ![Artboard](https://user-images.githubusercontent.com/73229139/145695494-204ed390-2a9e-4103-8435-8af77eadbfcb.png)
 
+![Artboard](https://user-images.githubusercontent.com/73229139/145709063-82bb23b7-fe85-432e-8bb9-4a03f1696095.png)
 
 ### How can we dynamically visualize the relationships between people by analyzing their quotes?
 
@@ -11,7 +12,7 @@ ada-2021-project-arcadie created by GitHub Classroom
 The quotebank dataset from 2020 contains millions of quotes, of which a large fraction is one person mentioning another in a positive, negative or neutral way. This project aims to create a graph where nodes represent people and oriented edges represent the fact that person A mentioned person B in a quote in a positive/negative way. The weight of the edge between two people will be based on the average of the sentiment score from all quotes between those two people. A sentiment analysis will be done on the quotes using a NLP sentiment analyzer. Entities (i.e tokens representing mentioned people in the sentence) in quotes will be extracted using Spacy. The milestone 2 final analysis of the data from 2020 shows that there are plenty of quotes available for creating the graph. A key part of this project will be to decide how we will display our nodes in a 2D dimensional space and what attributes we will be showing in order to create interesting clusters. The most frequent speakers in the Quotebank dataset are American politicians. This is not surprising as the quotebank data comes from English articles and in 2020 there was the U.S. presidential election. We can expect to find political clusters which would lead, as an example, to the following graph:
 
 
-<img width="696" alt="Capture d’écran 2021-11-11 à 19 58 05" src="https://user-images.githubusercontent.com/73229139/141360065-fdde9008-57de-4dd3-9a84-9638787ccb72.png">
+
 
 
 #### Research Question
