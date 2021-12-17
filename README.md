@@ -55,5 +55,5 @@ Below we show an overview of the notebook structure which in more detail explain
 ### Contributions
 Julien: Problem formulation : big picture, coding the technical part of the algorithm, data analysis, read-me picture, figures/animation on the website, data analysis and finalizing the submission;
 Martin: Problem formulation, coding the technical part of the algorithm, coming up with the algorithm and finalizing the submission;
-Stefan: Coming up with the algorithm, community detection and analysis, graph creation and communities detection, website development;
+Stefan: Problem formulation, coming up with the algorithm, graph creation and communities detection and analysis, website development;
 Donggyun: Coding up the algorithm, plotting graphs during data analysis, writing up the readme and finalizing the submission.
