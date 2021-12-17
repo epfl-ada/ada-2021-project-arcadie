@@ -41,7 +41,8 @@ This allows us to see if there are distinguishable clusters of the entitis. We v
 #### This is a schematic of our pipeline in the notebook.
 Below we show an overview of the notebook structure which in more detail explains the step above.
 
-![Readmepng](https://user-images.githubusercontent.com/73229139/146181711-441e7708-305b-40db-9bf0-5ce2be14beae.png)
+
+![Readmepng_FINAL](https://user-images.githubusercontent.com/73229139/146611005-39b5d21d-882f-4d95-a3e0-59816e030b6e.png)
 
 
 ### Proposed timeline
@@ -52,7 +53,7 @@ Below we show an overview of the notebook structure which in more detail explain
 - 17 December : Finalize the git repository, create a cool storyboard with meaningful figures and submit.
 
 ### Contributions
-Julien: Problem formulation, coding up the algorithm, plotting graphs during data analysis and finalizing the submission;
-Martin: Problem formulation, coding up the algorithm, coming up with the algorithm and finalizing the submission;
-Stefan: Coming up with the algorithm, community detection and analysis, website development;
+Julien: Problem formulation : big picture, coding the technical part of the algorithm, data analysis, read-me picture, figures/animation on the website, data analysis and finalizing the submission;
+Martin: Problem formulation, coding the technical part of the algorithm, coming up with the algorithm and finalizing the submission;
+Stefan: Coming up with the algorithm, community detection and analysis, graph creation and communities detection, website development;
 Donggyun: Coding up the algorithm, plotting graphs during data analysis, writing up the readme and finalizing the submission.
