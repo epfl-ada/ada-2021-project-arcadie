@@ -1,8 +1,6 @@
 # ADA-2021-Project-Team arcadie
 ada-2021-project-arcadie created by GitHub Classroom
 
-![Readmepng](https://user-images.githubusercontent.com/73229139/146181711-441e7708-305b-40db-9bf0-5ce2be14beae.png)
-
 ### Mapping of Social Communities Using NLP Analysis of Quotes?
 
 #### Abstract
@@ -16,11 +14,9 @@ Quotebank contains millions of quotes, of which a large fraction is one person m
 #### Proposed additional datasets
 Apart from the quotebank dataset, an additional dataset extracted from wikidata containing all speakers in the given dataset is used. This will assist in properly mapping entity aliases to full names of entities as well as finding relevant information about the entity such as political parties. Note that this means only active speakers will be included in the graph.
 
-![unnamed-2](https://user-images.githubusercontent.com/73229139/141379068-e186e834-dcf6-4951-bced-984d2a7f1bb8.png)
 
 #### Methods
-Below, we briefly explain the outline of the methods used to obtain our results.
-
+Below, we briefly explain the outline of the methods used to obtain our results. In the last part, we finally show an overview of our notebook as a schematic.
 ##### Load and clean Quotebank and the additional data containing QIDs and the corresponding names.
 We load and clean the Quotebank dataset for years 2015-2020. In this process we select quotes that are not usable for the project such as quote without a speaker. Furthermore we load an additional dataset containing the persons present in the Quotebank dataset as a speaker. For the persons in the Quotebank dataset the second dataset contains the following for each person: Wikidata QID, full name, list of aliases. These aliases will turn very usefull in later stages of the project to detect persons being mentioned in quotes.
 
@@ -41,6 +37,12 @@ To construct our graphs, we utilized a useful graphical tool 'gephi'. This tool 
 ![WhatsApp Image 2021-12-17 at 7 53 46 PM](https://user-images.githubusercontent.com/77029774/146601447-9f63f867-4f9d-45e1-a071-fa53ff54dfd5.jpeg)
 
 This allows us to see if there are distinguishable clusters of the entitis. We verified if there is any correspondence between the clusters found in the data and the political parties, or another fertured groups.
+
+##### This is a schematic of our pipeline in the notebook.
+Below we show an overview of the notebook structure which in more detail explains the step above.
+
+![Readmepng](https://user-images.githubusercontent.com/73229139/146181711-441e7708-305b-40db-9bf0-5ce2be14beae.png)
+
 
 #### Proposed timeline
 - 19 November : Take into account Milestone 2 feedback.
