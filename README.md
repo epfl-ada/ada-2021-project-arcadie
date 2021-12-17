@@ -6,6 +6,8 @@ ada-2021-project-arcadie created by GitHub Classroom
 ### Abstract
 Quotebank contains millions of quotes, of which a large fraction is one person mentioning another in a semantic way. This project aims to analyse and visualise the social relationships of the most popular people in Quotebank. After going through our data pipeline utilizing diverse strategies, Quotebank turns into a neat and useful dataset. The analysis shows that there are plenty of meaningful quotes available for visualizing what we would like to see. The most frequent speakers in Quotebank are American politicians and this is not surprising as Quotebank comes from English articles and in 2020 there was the U.S. presidential election. We also confirm that the social clusters of Quotebank heavily rely on their political parties. Our conclusion is we are able to map social communities in a reasonable and realistic way.
 
+#### Here is [our data story](https://julienadda.wixsite.com/arcadieteam)
+
 ### Research Questions
 1. Can the interpersonal relationships between celebrities be realistically mapped in a visible manner using quotes between them?
 2. Will the relationships in Qoutebank be more effectively visualized by adding more features?
